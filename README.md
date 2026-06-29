@@ -74,7 +74,7 @@ de este software es responsabilidad exclusiva del usuario.
 
 ## 👨‍💻 Autor
 
-**Esteban Janiot**
+**SrJaniot**
 
 GitHub: https://github.com/SrJaniot
 
