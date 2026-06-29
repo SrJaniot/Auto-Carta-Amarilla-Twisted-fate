@@ -77,6 +77,7 @@ de este software es responsabilidad exclusiva del usuario.
 **SrJaniot**
 
 GitHub: https://github.com/SrJaniot
+Video: https://youtu.be/0-HE7UXBy34
 
 ## 📄 Licencia
 
